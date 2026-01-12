@@ -1,0 +1,144 @@
+,true_label,predicted_label,spam_score,reasoning,title,text,correct
+0,not spam,not spam,0.0,"This email appears to be a legitimate notification from Amazon, as it matches the format of their usual login notifications and includes specific details such as device and location information.","amazon.com.tr, action needed: Sign-in","
+Logo Image
+Senol Yildirim,
+
+Someone signed-in to your account.
+
+When: Jul 06, 2023 07:34 PM Turkey Time
+Device: Amazon Shopping App for Android
+Near: Manisa, Turkey
+If this was you, you can disregard this message. Otherwise, please let us know.",True
+1,not spam,not spam,0.0,Reward email with no suspicious or malicious content,You've Earned a Reward from Bard Explorers India,"You've received a gift!
+Sign in to your Bard Explorers India community
+Click the member icon at the top of any page to visit your Member Profile Page
+Your earned gift will appear on that page
+Follow the instructions provided in the community to redeem
+Please act quickly to redeem. For your protection, gift links expire after 90 days.
+
+See you online!
+
+Go to Bard Explorers India
+If you have questions about your gift, please reach out to our fulfillment company at support@virtualrewardcenter.com
+",True
+2,not spam,spam,1.0,"Phishing-like behavior, generic congratulatory message, and a sense of urgency to take advantage of an offer without providing any specific details about the scholarship or the university.",Congratulations! You have been selected for a special scholarship from Unicaf ,"Dear Joseph Alex Eze
+ 
+We are pleased to inform you that as part of Unicaf’s 10-year anniversary, you have been selected for a special scholarship which will allow you to study towards a British Master’s degree of your choice for only ?1,950.
+ 
+We are excited to have you join us and believe that this program will provide you with the skills and knowledge you need to succeed in your chosen field. More than 90% of our graduates are in employment or have earned a higher salary.
+ 
+We believe that this opportunity will allow you to pursue your educational goals without the financial burden that accompanies a Master's degree programme. We encourage you to take advantage of this offer and join us in the pursuit of knowledge and academic excellence by replying to this email.
+ 
+To take advantage of this offer please quote to your Adviser the code NG1950.
+ 
+ 
+Sincerely,
+Olusegun Onyinyechi
+Your Scholarship Adviser ",False
+3,not spam,not spam,0.0,This is a legitimate verification email from Twitch,Verify your Twitch email address,"Hey fanat_papicha_nomer_1, please verify your e-mail address!
+Someone (hopefully you) has used this email at Twitch. Please click the button below to verify your ownership of this email for the account, fanat_papicha_nomer_1. You will not be able to receive email notifications until you do so.
+
+Verify your email
+Or click on this link: https://www.twitch.tv/user/verify_email?email_verification_code=3f4b3e6c4&login=fanat_papicha_nomer_1
+© 2017 Twitch. All Rights Reserved.",True
+4,spam,spam,1.0,"The email is offering a job opportunity with unusually high pay rates and promises of no training fee required, which is likely too good to be true.","Job Opportunities that pay ?600,000+ and up in Nigeria","To cushion the effect of subsidy removal and general increase in prices of goods and services, Nigerians have now been approved to work and earn in US Dollars, whatever you earn is paid directly to your account.
+
+Our partners earn as much as $3500-$5000 monthly and even more. The current exchange rate is about 850, $4000 is over ?3 Million naira.
+
+Click here to start
+
+Requirements:
+A smartphone/laptop
+Fast internet connection
+Simple guide from account managers
+No training fee required
+The Opportunity
+
+Our client a major player in the premium domain business is giving opportunities to anyone interested in working independently. The goal is to help our clients earn strictly in US Dollars, you simply participate in the premium domain business and have your earnings sent in Dollars.",True
+5,not spam,not spam,0.0,This email is a legitimate reminder from the Quick Pay Survey platform to keep an active account.,Come back and keep earning with Quick Pay Survey,"Quick Pay Survey®  
+  
+ 
+  
+ 
+Hello Anggraeni ,
+
+Remember, we can't hang onto inactive accounts forever! To keep the balance of $3.28 in your Quick Pay Survey® account, you need to visit your account. Logging in today will save your balance from being cleared.
+ 
+Login Now
+ 
+Thanks!
+- The Quick Pay Survey® Team
+  
+ 
+  
+You have received this email because you signed up to be a member of Quick Pay Survey® on January 16, 2023 from 103.144.18.94
+
+We respect your privacy. If you would like to stop receiving messages from Quick Pay Survey®, please Unsubscribe. 
+  
+  
+© 2009 - Present Quick Pay Survey® | Kvieciu g. 4 - 23, Vilnius LT-08438 
+  
+",True
+6,spam,spam,0.92,"The email contains a promotional offer with a specific timeframe and location, which may indicate spam.","John, here’s a discount for your next safe rides ??","Bolt rides are not only affordable, but they also come with a number of safety features. 
+
+ 
+
+Here are some of the things we do to ensure your safety:
+
+We train our drivers and verify their identity;
+Our app has ‘Share your ETA’ and emergency assist buttons;
+We use rider feedback to improve future journeys.
+Learn all about Bolt’s safety measures here.
+
+OPEN THE APP
+
+Safe travels! ??
+
+The Bolt team
+
+N.B. This is a limited-time offer that you can use from 2023-07-18 until 2023-07-24 in Nairobi, Kenya. More information in the app. Discount is valid for up to 250 KES per trip.",True
+7,spam,not spam,0.0,"The email is a legitimate notification from Discogs about measures they're taking to combat scams in their marketplace, and it does not contain any suspicious links or attachments.",Combating scams in the Discogs Marketplace,"Discogs has recently detected an increase in scammers in the Marketplace, and we’re taking action to address the issue. New sellers on Discogs will undergo a waiting period to reduce fraud attempts.
+
+We are committed to maintaining a safe and trustworthy marketplace for independent buyers and sellers. If you see suspicious activity, please report it immediately to Discogs Support through this form.
+
+Learn more about how to recognize fraud in our guide to best practices for buying safely on Discogs:
+
+Safe Buying Tips",False
+8,spam,not spam,0.0,"The email appears to be a legitimate marketing campaign from a fashion brand, Love, Bonito.",Style with Denim,"Comfortable & Durable
+Love, Bonito
+NEW IN  BESTSELLERS
+
+Just the thing for every kind of personality there is. Time to shine in this wardrobe classic.
+SHOP DENIM
+Here’s How to Style Denim
+Model-off-duty look: Denim Jeans + White Top
+Elevate your look instantly by layering on a blazer or matching the outfit to a pair of heels.
+
+
+
+GET THE LOOK
+Fuss-free pairing: Denim + different fabric
+Denim works with just about any fabric, pattern or texture.
+
+
+PICK YOUR PAIRING
+Contrast with colour: Denim + pop of colour
+Think electric blue, vibrant red, sunny yellow, hot pink, or emerald green.
+
+
+ADD TO CART
+Or go full on denim
+Complete with sneakers or heels, depending on the occasion.
+
+
+MAKE YOUR STATEMENT
+ABOUT US
+STORES
+PROMOTIONS
+FAQ
+fb  ig  yt
+Love, Bonito is a registered trademark of LOVEBONITO HOLDINGS PTE LTD. You are receiving this email because you subscribed or opted in at our website. We’d hate to see you go, but you can unsubscribe at anytime here.
+
+Have trouble viewing this email? Click here.
+
+",False
